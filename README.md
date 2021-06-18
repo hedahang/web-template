@@ -1,4 +1,4 @@
-# 通用版检查站
+# web-template
 
 ## Project setup
 ```
